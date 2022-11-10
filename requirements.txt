@@ -1,0 +1,5 @@
+glom
+requests
+urllib3
+bs4
+lxml
